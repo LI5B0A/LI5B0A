@@ -4,17 +4,6 @@
 
 Meu nome é Amanda Cecília. Tenho 18 anos, sou natural de Brasília e atualmente resido em Curitiba. Sou uma profissional em desenvolvimento na área de Tecnologia, tendo concluído o Ensino Médio em 2024. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e buscando aprimoramento contínuo em programação. Possuo conhecimento inicial e paixão por linguagens como Python e Java, que estou aprofundando ativamente através de cursos na Udemy.
 
-<p>
-    <a href="https://github.com/LI5B0A">          
-<img 
-            alt="GITHUB" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LI5B0A?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Github&logoColor=white"
-        />
-    </a>
-</p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
