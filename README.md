@@ -2,19 +2,11 @@
 
 **`Dev`**
 
-Meu nome é Amanda Cecília. Tenho 18 anos, sou natural de Brasília e atualmente resido em Curitiba. Sou uma profissional em desenvolvimento na área de Tecnologia, tendo concluído o Ensino Médio em 2024. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e buscando aprimoramento contínuo em programação. Possuo conhecimento inicial e paixão por linguagens como Python e Java, que estou aprofundando ativamente através de cursos na Udemy.
+Meu nome é Amanda Cecília. Tenho 18 anos, sou natural de Brasília e atualmente resido em Curitiba. Sou uma profissional em desenvolvimento na área de Tecnologia, tendo concluído o Ensino Médio em 2024. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e buscando aprimoramento contínuo em programação. Possuo conhecimento inicial e paixão por linguagens como Python, que estou aprofundando ativamente através de cursos na Udemy.
 
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="JAVA"
-    title="JAVA" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/java/original.svg"
-/>
 <img 
     align="left" 
     alt="CSS" 
